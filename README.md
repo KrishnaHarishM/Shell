@@ -1,3 +1,2 @@
 # Shell
-Schell Scripts NEW
-#1111
+Schell Scripts for practice
